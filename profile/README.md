@@ -11,6 +11,8 @@
 | [brick-base](https://github.com/brick-codeagent/brick-base) | Core agent runtime — CLI, agent loop, tool registry, MCP bridge |
 | [brick-web-search](https://github.com/brick-codeagent/brick-web-search) | Extension: web search via DuckDuckGo |
 | [brick-repomap](https://github.com/brick-codeagent/brick-repomap) | Extension: codebase mapping and symbol search |
+| [brick-lsp](https://github.com/brick-codeagent/brick-lsp) | Extension: Language Server Protocol integration (hover, go-to-def, diagnostics, completions) |
+| [brick-sub-agent](https://github.com/brick-codeagent/brick-sub-agent) | Extension: spawn child agents for parallel task execution |
 
 ## Architecture
 
